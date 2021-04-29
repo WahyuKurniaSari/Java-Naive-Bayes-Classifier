@@ -1,4 +1,5 @@
 Java Naive Bayes Classifier
+
 ==================
 
 [![Build Status](https://travis-ci.org/ptnplanet/Java-Naive-Bayes-Classifier.svg?branch=master)](https://travis-ci.org/ptnplanet/Java-Naive-Bayes-Classifier)
